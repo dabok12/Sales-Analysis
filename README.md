@@ -8,4 +8,4 @@ In this analysis, I explored the following 4 high-level business questions relat
 
 - What time should we display advertisemens to maximize the likelihood of customer’s buying product?
 
-- What product sold the most? Why do you think it sold the most?
+- What product sold the most? 
