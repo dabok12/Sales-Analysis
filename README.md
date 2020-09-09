@@ -1,6 +1,6 @@
 This is a Sales Analysis using Python.
 
-In this analysis, I explored the following 4 high-level business questions related to our data:
+In this analysis, I explored the following 4 high-level business questions related to the data:
 
 - What was the best month for sales? How much was earned that month?
 
